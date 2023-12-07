@@ -1,0 +1,14 @@
+# ignore everything
+*.*
+*
+
+# except
+!.gitignore
+!yabai/
+!yabai/*
+!skhd/
+!skhd/*
+!nvim/
+!nvim/*
+!tmux/
+!tmux/*
