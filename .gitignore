@@ -10,5 +10,6 @@
 !skhd/*
 !nvim/
 !nvim/*
+!nvim/**/*
 !tmux/
 !tmux/*
